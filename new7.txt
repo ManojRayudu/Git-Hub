@@ -1,5 +1,9 @@
 hi manoj git tutorial 
+<<<<<<< HEAD
 
 
 
 hey manoj how do u do?
+=======
+hello
+>>>>>>> 50ff463985683fa205d1917fefd182a26d66066e
